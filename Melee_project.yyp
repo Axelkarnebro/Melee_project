@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "4a7ce33b-606e-4ef8-90eb-a2a819ffb9e5",
+            "Value": {
+                "id": "19c3cd52-93a7-4cdd-b72d-c9694f7caa43",
+                "resourcePath": "sprites\\gittest\\gittest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4c3cdd41-64c0-46b8-bac2-4be8aeca07c0",
             "Value": {
                 "id": "db67402a-088a-44c5-b700-451590c24262",
